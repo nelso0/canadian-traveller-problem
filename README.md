@@ -9,6 +9,4 @@ Unfortunately, if you don't have a PC from the NASA I don't think it will work w
 
 ## Usage
 
-sh```
-$ python main.py [nb_cities]
-```
+```$ python main.py [nb_cities]```
