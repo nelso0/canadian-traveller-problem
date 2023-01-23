@@ -9,4 +9,7 @@ Unfortunately, if you don't have a PC from the NASA I don't think it will work w
 
 ## Usage
 
-```$ python main.py [nb_cities]```
+```sh
+$ python main.py [nb_cities]
+```
+ 
