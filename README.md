@@ -4,9 +4,11 @@ It's just a brute-force program which generate random cities locations and find 
 Unfortunately, if you don't have a PC from the NASA I don't think it will work with over 10 cities.
 
 ## Demo
-
-![](https://media.discordapp.net/attachments/876447732259225612/1067090105250099282/Capture_decran_2023-01-23_a_15.34.58.png?width=1254&height=1069)
-
+ 
+<p align="left">
+  <img width="40%" height="40%" src="https://media.discordapp.net/attachments/876447732259225612/1067090105250099282/Capture_decran_2023-01-23_a_15.34.58.png?width=1254&height=1069">
+</p>
+ 
 ## Usage
 
 ```sh
